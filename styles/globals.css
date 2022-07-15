@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
 
 html,
 body {
@@ -30,20 +30,21 @@ a {
 /*////// CARROUSEL /////////*/
 header {
   margin-bottom: 20px;
-  background-color: #5C2018
-  ;
+  background-color: #002869;
   color: #ffffff;
 }
 
 header {
-  border-bottom: 5px solid #fd7c0365 !important;
+  border-bottom: 5px solid #74bfeb !important;
 
 }
 
 
 header a {
   font-weight: 700;
-  font-family: 'Architects Daughter', cursive;
+  font-size: x-large;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  color: whitesmoke !important;
 }
 
 header a:hover {

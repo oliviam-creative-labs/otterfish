@@ -7,7 +7,7 @@ const Header = () => {
         <>
             <header>
                 <Container>
-                    <Navbar Variant="light">
+                    <Navbar variant="light" >
                         <Navbar.Brand>
                             <Link href="/">
                                 <img
@@ -15,10 +15,19 @@ const Header = () => {
                                     width="100"
                                     height="100"
                                     className="d-inline-block align-top"
-                                    alt="React Bootstrap logo"
+                                    alt="Ottherfish logo"
                                 />
                             </Link>
                         </Navbar.Brand>
+                        <Nav>
+                            <Link href="/" passHref>
+                                <Nav.Link>OTTERFISH</Nav.Link>
+                            </Link>
+
+                            <Link href="/bio" passHref>
+                                <Nav.Link>About Us</Nav.Link>
+                            </Link>
+                        </Nav>
                     </Navbar>
                 </Container>
             </header>
