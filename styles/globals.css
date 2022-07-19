@@ -30,12 +30,12 @@ a {
 /*////// CARROUSEL /////////*/
 header {
   margin-bottom: 20px;
-  background-color: #002869;
+  background-color: #3040C4;
   color: #ffffff;
 }
 
 header {
-  border-bottom: 5px solid #74bfeb !important;
+  border-bottom: 5px solid #54012F !important;
 
 }
 
@@ -44,7 +44,7 @@ header a {
   font-weight: 700;
   font-size: x-large;
   font-family: 'Edu VIC WA NT Beginner', cursive;
-  color: whitesmoke !important;
+  color: #54012F !important;
 }
 
 header a:hover {
@@ -54,7 +54,7 @@ header a:hover {
 /*////// CARROUSEL /////////*/
 
 
-.carrousel_wrapper {
+.carousel_wrapper {
   height:500px;
   background-size: cover !important;
   position: relative;
@@ -65,7 +65,7 @@ header a:hover {
   position: absolute;
   bottom: 30px;
   left: 30px;
-  background: #343a40b3;
+  background: #FED4BC;
   color: #ffffff;
   padding: 20px;
   font-weight: 900;

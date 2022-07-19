@@ -11,9 +11,9 @@ const Header = () => {
                         <Navbar.Brand>
                             <Link href="/">
                                 <img
-                                    src="/images/logos/logo-img-2.png"
-                                    width="100"
-                                    height="100"
+                                    src="/images/logos/logo-img-3.png"
+                                    width="150"
+                                    height="150"
                                     className="d-inline-block align-top"
                                     alt="Ottherfish logo"
                                 />
